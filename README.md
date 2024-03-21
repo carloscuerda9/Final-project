@@ -61,7 +61,6 @@ Secondary Objectives:
 ### Personal Journey and Perspectives on Fitness and Nutrition
 <p align="justify">My passion for fitness and nutrition stems from personal experiences and a desire to help others achieve their health and wellness goals. Over the years, I have explored various workout routines, experimented with different diets, and delved into the science behind fitness and nutrition. Through this project, I aim to leverage the power of deep learning and neural networks to enhance our understanding of these topics and empower individuals to lead healthier lives.</p>
 
-
 ## Results and Conclusions
 
 <p align="center">
@@ -78,12 +77,9 @@ For more detailed results and code implementation, please refer to the following
   * [BMI Prediction Model](link_to_your_bmi_model_file.py)
   * [Data Preprocessing](link_to_your_data_preprocessing_file.py)
 
-
 ## Toolkit:
 
 * **JupyterLab**: Enviorment for Python scripts and managing files.
-
-**Libraries**
 
 ## 📚 Libraries Use
 - **Streamlit**: Used for creating interactive web applications for machine learning and data visualization.
@@ -109,7 +105,6 @@ These libraries form the backbone of the project, enabling various functionaliti
 
 - **Scikit-learn**: Used for training linear regression models and other machine learning tasks.
 - **Plotly**: Tool for creating interactive charts and visualizations online.
-
 
 ## Bibliography:
 
