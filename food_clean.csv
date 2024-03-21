@@ -1,0 +1,107 @@
+name,serving_size,calories,carbs_g,fat_g,protein_g
+egg,1 egg,70,0.0,5.0,6.0
+chicken thigh,4oz,160,0.0,10.0,25.0
+chicken breast,4oz,136,0.0,3.0,25.4
+ground beef,4oz,180,0.0,10.0,23.0
+flour tortilla,1 tortilla,138,22.2,3.6,3.7
+white bread,1 slice,70,13.0,1.0,2.0
+white rice,1 cup,205,45.0,0.0,4.0
+avocado,1 avocado,240,12.8,22.0,3.0
+potato,1 potato,161,37.0,0.2,4.3
+apple,1 apple,80,22.0,0.0,0.0
+banana,1 banana,105,27.0,0.4,1.3
+orange,1 orange,62,15.4,0.2,1.2
+grape,0.5 cup,52,13.6,0.1,0.5
+strawberry,0.5 cup,24,5.8,0.2,0.5
+blueberry,1 cup,42,10.7,0.2,0.5
+raspberry,0.5 cup,39,9.0,0.5,0.9
+pineapple,1 cup,82,21.6,0.2,0.9
+watermelon,1 cup,46,11.0,0.2,0.9
+spinach,1 cup,7,1.1,0.1,0.9
+kale,1 cup,9,1.1,0.4,0.7
+broccoli,1 cup,30,5.8,0.3,2.5
+carrot,0.5 cup,26,6.1,0.2,0.6
+tomato,1 tomato,22,4.8,0.2,1.1
+cucumber,1 cup,19,3.4,0.2,0.9
+bell pepper,1 pepper,31,7.6,0.2,1.0
+sweet potato,1 potato,164,25.2,6.4,2.0
+brown rice,1 cup,150,32.0,1.0,3.0
+quinoa,0.5 cup,111,19.7,1.8,4.1
+oatmeal,1 cup,154,27.3,2.6,5.3
+whole wheat bread,1 slice,91,15.5,1.3,4.4
+salmon,4oz,160,0.0,7.2,24.0
+tuna,1 can,120,0.0,1.0,30.0
+greek yogurt,1 cup,149,8.9,0.9,25.2
+cottage cheese,1 cup,206,7.1,9.0,23.4
+almond,6 almonds,42,1.2,3.6,1.8
+walnut,6 walnuts,156,3.6,15.6,3.6
+peanut butter,2 tbsp,190,7.0,16.0,7.0
+olive oil,1 tbsp,124,0.0,14.0,0.0
+black bean,0.5 cup,109,19.9,0.3,7.2
+chickpea,1 tbsp,13,2.0,0.3,0.7
+lentil,1 cup,230,39.9,0.8,17.9
+whole milk,1 cup,149,11.7,7.9,7.7
+2% milk,1 cup,122,12.0,4.6,8.2
+parmesan cheese,1oz,119,3.5,7.9,8.4
+cheddar cheese,1oz,116,0.7,9.6,6.6
+american cheese,1 slice,77,1.0,6.4,3.8
+tofu,3oz,40,1.2,2.1,4.1
+pasta,1 cup,190,18.9,5.0,4.3
+whole wheat pasta,1 cup,210,41.0,1.0,7.0
+lettuce,1 cup,5,1.0,0.0,0.4
+arugula,1 cup,5,0.7,0.1,0.5
+onion,0.5 cup,32,7.5,0.1,0.9
+garlic,1 clove,4,1.0,0.0,0.2
+lemon,1 slice,2,0.7,0.0,0.1
+lime,1 slice,2,0.8,0.0,0.1
+honey,1 tbsp,64,17.3,0.0,0.1
+maple syrup,1 tbsp,55,14.1,0.0,0.0
+chia seed,1 tbsp,56,3.0,4.4,1.9
+flax seed,1 tbsp,56,3.3,3.6,2.0
+brussel sprouts,1 cup,38,8.0,0.3,3.0
+cauliflower,1 cup,25,5.3,0.1,2.0
+zucchini,1 cup,19,4.0,0.4,1.4
+ground turkey,4oz,160,1.0,8.0,22.0
+ground pork,4oz,260,0.0,9.1,28.3
+green pea,1 cup,62,11.4,0.2,4.1
+asparagus,0.5 cup,13,2.6,0.1,1.5
+edamame,0.5 cup,100,9.0,3.0,8.0
+cabbage,1 cup,22,5.2,0.1,1.1
+corn,0.5 cup,64,14.0,1.0,2.5
+mushroom,1 cup,21,3.1,0.3,3.0
+couscous,1 cup,176,36.0,0.3,6.0
+coconut milk,1 cup,45,1.0,4.5,0.0
+almond milk,1 cup,37,3.2,2.3,1.0
+cashew milk,1 cup,25,1.0,2.0,1.0
+rice milk,1 cup,130,27.0,2.0,1.0
+mango,0.5 cup,50,12.4,0.3,0.7
+mixed berry,1 cup,70,17.0,0.0,1.0
+sirloin steak,4oz,170,0.0,9.0,23.0
+flank steak,4oz,180,0.0,9.0,24.0
+new york steak,4oz,260,0.0,18.0,23.0
+balsamic vinegar,1 tbsp,14,2.7,0.0,0.1
+red wine,1 glass,145,4.4,0.0,0.1
+white wine,1 glass,139,4.4,0.0,0.1
+light beer,1 beer,99,6.8,0.0,1.5
+ipa,1 beer,208,17.7,0.0,2.4
+tequila,1 shot,97,0.0,0.0,0.0
+vodka,1 shot,97,0.0,0.0,0.0
+gin,1 shot,97,0.0,0.0,0.0
+whisky,1 shot,97,0.0,0.0,0.0
+bacon,2 pieces,80,0.0,7.0,5.0
+sausage,4oz,265,2.4,29.6,20.5
+panchetta,4oz,280,0.2,15.9,31.4
+jam,1 tbsp,50,13.0,0.0,0.0
+corn tortilla,1 tortilla,90,14.0,1.0,5.0
+quick protein,1 gram,4,0.0,0.0,1.0
+quick carb,1 gram,4,1.0,0.0,0.0
+quick fat,1 gram,9,0.0,1.0,0.0
+quick alcohol,1 gram,7,0.0,0.0,0.0
+quick calorie,,10,0.0,0.0,0.0
+ranch,2 tbsp,126,1.7,13.1,0.4
+pesto,1oz,91,0.9,8.5,3.1
+marinara sauce,1 cup,117,20.9,3.8,3.7
+ketchup,1 tbsp,17,4.7,0.0,0.2
+mustard,1 tbsp,9,0.8,0.5,0.6
+mayonnaise,1 tbsp,94,0.1,10.3,0.1
+relish,1 tbsp,20,5.0,0.0,0.0
