@@ -53,7 +53,7 @@ Secondary Objectives:
 <p align="justify">In the realm of fitness and nutrition, challenges abound. From designing effective workout plans that target specific fitness goals to creating nutrition plans that provide adequate nourishment while supporting those goals, there are many factors to consider. Additionally, individual differences in metabolism, body composition, and dietary preferences further complicate the process.</p>
 
 <p align="center">
-  <img src="[[https://i.postimg.cc/YCxYsrvh/cytology-codex-final-1.png](https://assets-global.website-files.com/65392ff2e726f445f21d0c5d/655237911e99dad2cc905ad8_diet_exercise-p-1080.webp)](https://images.squarespace-cdn.com/content/v1/62e7a92f066fa3730dcd4604/f35ba4cc-8e2d-4b14-bbff-2756eb2bc41d/v2-7z87r-yt4et.jpg)" width="46%">
+  <img src="https://images.squarespace-cdn.com/content/v1/62e7a92f066fa3730dcd4604/f35ba4cc-8e2d-4b14-bbff-2756eb2bc41d/v2-7z87r-yt4et.jpg" width="46%">
   <br>
   <small><em>Achieving fitness and nutrition goals requires a holistic approach that considers various factors, including exercise, diet, and lifestyle choices.</em></small>
 </p>
