@@ -65,7 +65,7 @@ Secondary Objectives:
 ## Results and Conclusions
 
 <p align="center">
-  <img src="https://i.postimg.cc/zvkVnDCK/microfinal.png" width="36%">
+  <img src="[https://i.postimg.cc/zvkVnDCK/microfinal.png](https://images.squarespace-cdn.com/content/v1/62e7a92f066fa3730dcd4604/efeca7db-f5a9-4fb4-bd29-f0fd1bc9de8c/v2-7z8a0-8hx9a.jpg)" width="36%">
 </p>
     
 <ol>
@@ -73,11 +73,6 @@ Secondary Objectives:
     <li>Data preprocessing played a crucial role in improving model performance, including feature scaling and handling missing values.</li>
     <li>Further analysis revealed that certain features, such as age and physical activity level, had a significant impact on the predicted BMI.</li>
 </ol>
-
-<div align="center">
-  <img src="https://s11.gifyu.com/images/ScntV.gif"/>
-</div>
-
 
 For more detailed results and code implementation, please refer to the following Python files:
   * [BMI Prediction Model](link_to_your_bmi_model_file.py)
