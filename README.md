@@ -67,7 +67,7 @@ Secondary Objectives:
 </p>
     
 <ol>
-    <li>The linear regression model demonstrated strong performance in predicting BMI values, achieving an accuracy of approximately 85% on the test dataset.</li>
+    <li>The linear regression model demonstrated strong performance in predicting BMI values, achieving an accuracy of approximately 98% on the test dataset.</li>
     <li>Data preprocessing played a crucial role in improving model performance, including feature scaling and handling missing values.</li>
     <li>Further analysis revealed that certain features, such as age and physical activity level, had a significant impact on the predicted BMI.</li>
 </ol>
