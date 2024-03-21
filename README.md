@@ -38,7 +38,6 @@ Secondary Objectives:
   <li>To provide informative feedback on workout and nutrition plans using assisting users in understanding the rationale behind the recommendations.</li>
 </ul>
 
-Agile methodology and roadmap can be found [here](https://trello.com/b/gm7sl9gX/fitness-nutrition-codex).
 
 ## About Fitness and Nutrition
 ### Glossary
