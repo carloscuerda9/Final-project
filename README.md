@@ -1,8 +1,7 @@
 # Final-project
 
 # Fitness and Nutrition Codex
-### The Digital Tome of Fitness and Nutrition: Deep Learning & Neural Networks Transformation
-
+### The Digital Tome of Fitness and Nutrition: Deep Learning 
 <p align="center">
   <img src="https://media.scoolinary.app/images/2023/05/Nutricion_deportiva_presentacion.jpg" width="36%">
   <br>
